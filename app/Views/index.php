@@ -6,9 +6,6 @@
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
-    <meta name="generator" content="Hugo 0.122.0">
     <title>Eko Service</title>
 
     <link rel="canonical" href="https://getbootstrap.com/docs/5.3/examples/carousel/">
@@ -261,46 +258,37 @@
             </button>
         </div>
 
-
-        <!-- Marketing messaging and featurettes
-  ================================================== -->
-        <!-- Wrap the rest of the page in another container to center all the content. -->
-
         <div class="container marketing">
 
-            <!-- Three columns of text below the carousel -->
-            <!-- <div class="row">
+            <div class="row">
                 <div class="col-lg-4">
                     <svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder" preserveAspectRatio="xMidYMid slice" focusable="false">
                         <title>Placeholder</title>
                         <rect width="100%" height="100%" fill="var(--bs-secondary-color)" />
                     </svg>
-                    <h2 class="fw-normal">Heading</h2>
-                    <p>Some representative placeholder content for the three columns of text below the carousel. This is the first column.</p>
-                    <p><a class="btn btn-secondary" href="#">View details &raquo;</a></p>
+                    <h2 class="fw-normal">WhatsApp</h2>
+                    <p>Hubungi Admin kami untuk konsultasi gratis.</p>
+                    <p><a class="btn btn-secondary" href="#">Hubungi</a></p>
                 </div>
                 <div class="col-lg-4">
                     <svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder" preserveAspectRatio="xMidYMid slice" focusable="false">
                         <title>Placeholder</title>
                         <rect width="100%" height="100%" fill="var(--bs-secondary-color)" />
                     </svg>
-                    <h2 class="fw-normal">Heading</h2>
-                    <p>Another exciting bit of representative placeholder content. This time, we've moved on to the second column.</p>
-                    <p><a class="btn btn-secondary" href="#">View details &raquo;</a></p>
+                    <h2 class="fw-normal">Facebook</h2>
+                    <p>Baca berita terbaru seputar aktivitas kami.</p>
+                    <p><a class="btn btn-secondary" href="#">Kunjungi</a></p>
                 </div>
                 <div class="col-lg-4">
                     <svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder" preserveAspectRatio="xMidYMid slice" focusable="false">
                         <title>Placeholder</title>
                         <rect width="100%" height="100%" fill="var(--bs-secondary-color)" />
                     </svg>
-                    <h2 class="fw-normal">Heading</h2>
-                    <p>And lastly this, the third column of representative placeholder content.</p>
-                    <p><a class="btn btn-secondary" href="#">View details &raquo;</a></p>
+                    <h2 class="fw-normal">Instagram</h2>
+                    <p>Pelajari tips-tips perawatan elektrikal anda.</p>
+                    <p><a class="btn btn-secondary" href="#">Kunjungi</a></p>
                 </div>
-            </div> -->
-
-
-            <!-- START THE FEATURETTES -->
+            </div>
 
             <hr class="featurette-divider">
 
@@ -317,11 +305,11 @@
             <hr class="featurette-divider">
 
             <div class="row featurette">
-                <div class="col-md-7 order-md-2">
+                <div class="col-md-5 order-md-2">
                     <h2 class="featurette-heading fw-normal lh-1">Pelayanan Prima</h2>
                     <p class="lead">Teknisi yang ramah, tepat waktu, dan rapi demi kepuasan pelanggan.</p>
                 </div>
-                <div class="col-md-5 order-md-1">
+                <div class="col-md-7 order-md-1">
                     <img src="img/featurette-2.jpg" style="width: 500px; height: 500px;" alt="featurette-2" />
                 </div>
             </div>
