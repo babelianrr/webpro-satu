@@ -25,9 +25,9 @@ class Home extends BaseController
         ]);
     }
 
-    public function shop(): string
+    public function gallery(): string
     {
-        return view('pages/shop', [
+        return view('pages/gallery', [
             'uri' => $this->request->getUri()
         ]);
     }

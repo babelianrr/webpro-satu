@@ -4,11 +4,11 @@
 <section class="py-5 text-center container">
     <div class="row py-lg-5">
         <div class="col-lg-6 col-md-8 mx-auto">
-            <h1 class="fw-light">Layanan Kami</h1>
+            <h1 class="fw-light">Layanan Eko Service</h1>
             <p class="lead text-body-secondary">Kami melayani perbaikan segala jenis alat elektronik dengan segala jenis kerusakan.</p>
             <p>
-                <a href="#" class="btn btn-primary my-2">Pesan Jasa</a>
-                <a href="#" class="btn btn-secondary my-2">Konsultasi</a>
+                <a href="https://wa.me/6285776011522?text=<?= urlencode('Saya ingin memesan jasa service...') ?>" target="_blank" rel="noopener noreferrer" class="btn btn-primary my-2">Pesan Jasa</a>
+                <a href="https://wa.me/6285776011522?text=<?= urlencode('Saya ingin bertanya tentang...') ?>" target="_blank" rel="noopener noreferrer" class="btn btn-secondary my-2">Konsultasi</a>
             </p>
         </div>
     </div>

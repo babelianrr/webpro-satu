@@ -4,8 +4,8 @@
 <section class="py-5 text-center container">
     <div class="row py-lg-5">
         <div class="col-lg-6 col-md-8 mx-auto">
-            <h1 class="fw-light">Katalog Elektronik Bekas</h1>
-            <p class="lead text-body-secondary">Kami menerima jual/beli barang elektronik bekas kualitas <em>like-new</em> dengan harga terbaik.</p>
+            <h1 class="fw-light">Galeri Eko Service</h1>
+            <p class="lead text-body-secondary">Dokumentasi aktivitas teknisi Eko Service.</p>
             <p>
                 <a href="#" class="btn btn-primary my-2">Pesan Jasa</a>
                 <a href="#" class="btn btn-secondary my-2">Konsultasi</a>
@@ -23,11 +23,11 @@
                 <div class="card-body">
                     <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                     <div class="d-flex justify-content-between align-items-center">
-                    <div class="btn-group">
+                    <!-- <div class="btn-group">
                         <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
                         <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
-                    </div>
-                    <small class="text-body-secondary">9 mins</small>
+                    </div> -->
+                    <small class="text-body-secondary">13 Desember 2024</small>
                     </div>
                 </div>
                 </div>
