@@ -36,7 +36,7 @@
     </div>
     <hr class="featurette-divider">
     <div class="row w-100 text-center">
-        <div class="mapswrapper"><iframe width="960" height="540" loading="lazy" allowfullscreen src="https://www.google.com/maps/embed/v1/place?key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8&q=QWWQ%2BRX%20Penggilingan%2C%20Kota%20Jakarta%20Timur%2C%20Daerah%20Khusus%20Ibukota%20Jakarta&zoom=10&maptype=roadmap"></iframe>
+        <div class="mapswrapper"><iframe width="960" height="540" loading="lazy" allowfullscreen src="https://www.google.com/maps/embed/v1/place?key=<?= env('GOOGLE_API_KEY') ?>&q=QWWQ%2BRX%20Penggilingan%2C%20Kota%20Jakarta%20Timur%2C%20Daerah%20Khusus%20Ibukota%20Jakarta&zoom=10&maptype=roadmap"></iframe>
             <style>
                 .mapswrapper {
                     background: #fff;
