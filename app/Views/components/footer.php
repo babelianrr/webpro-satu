@@ -15,16 +15,16 @@
       <h5>Layanan</h5>
       <ul class="nav flex-column">
         <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">Jasa Service</a></li>
-        <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">Jual Beli Elektronik Bekas</a></li>
         <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">Konsultasi</a></li>
       </ul>
     </div>
 
     <div class="col mb-3">
-      <h5>Hubungi Kami</h5>
+      <h5>Media Sosial</h5>
       <ul class="nav flex-column">
-        <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">Facebook</a></li>
-        <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">Instagram</a></li>
+        <li class="nav-item mb-2"><a href="https://facebook.com" class="nav-link p-0 text-body-secondary">Facebook</a></li>
+        <li class="nav-item mb-2"><a href="https://instagram.com" class="nav-link p-0 text-body-secondary">Instagram</a></li>
+        <li class="nav-item mb-2"><a href="https://tiktok.com" class="nav-link p-0 text-body-secondary">Tiktok</a></li>
       </ul>
     </div>
   </footer>

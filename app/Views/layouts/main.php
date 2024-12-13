@@ -19,12 +19,12 @@
 </head>
 
 <body>
-    <?= $this->include('layouts/color-toggle') ?>
-    <?= $this->include('layouts/navbar') ?>
+    <?= $this->include('components/color-toggle') ?>
+    <?= $this->include('components/navbar') ?>
     <main>
         <?= $this->renderSection('content') ?>
     </main>
-    <?= $this->include('layouts/footer') ?>
+    <?= $this->include('components/footer') ?>
 </body>
 
 </html>

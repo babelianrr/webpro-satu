@@ -8,10 +8,10 @@
     <div class="row featurette">
         <div class="col-md-6 order-md-2">
             <h2 class="featurette-heading fw-normal lh-1">Tentang Eko Service</h2>
-            <p class="lead"><strong>EkoService.id</strong> adalah salah satu usaha penyedia jasa service elektronik panggilan terbaik di Jakarta Barat.</p>
+            <p class="lead"><strong>EkoService.id</strong> adalah salah satu usaha penyedia jasa service elektronik panggilan terbaik di Jakarta.</p>
             <p>Kami memiliki staf profesional dengan pengalaman bertahun-tahun. Anda pasti akan mendapatkan hasil yang cepat dan rapi dan perangkat elektronik Anda akan berfungsi seperti semula lagi.</p>
             <p>EkoService.id menyediakan jasa perbaikan <strong>kulkas, mesin cuci, AC, <em>chiller</em>, showcase, dll.</strong> dengan berbagai merek dan tipe.</p>
-            <p>Kami sudah dipercaya masyarakat <strong>Jakarta Barat (Kebon Jeruk, Palmerah, Kembangan, Kalideres, Grogol) dan sekitarnya</strong> untuk memperbaiki barang elektronik anda dan kami melayani konsumen dari berbagai kalangan.</p>
+            <p>Kami sudah dipercaya masyarakat <strong>Jakarta dan sekitarnya</strong> untuk memperbaiki barang elektronik anda dan kami melayani konsumen dari berbagai kalangan.</p>
         </div>
         <div class="col-md-6 order-md-1">
             <img src="img/featurette-2.jpg" style="width: 500px; height: 500px;" alt="featurette-2" />
@@ -41,7 +41,7 @@
                 Kami mempekerjakan teknisi profesional yang berkualifikasi dan berpengalaman untuk memastikan bahwa pekerjaan kami akurat, tepat waktu dan rapi. Sehingga alat elektronik Anda akan berfungsi seperti baru kembali.
             </p>
             <p>
-                Kami telah dipercaya masyarakat Jakarta Barat selama bertahun-tahun sebagai penyedia jasa perbaikan dan perawatan alat alektronik. Karena kami memiliki reputasi keandalan dan keramahan. Harga jasa perbaikan dari kami sangat terjangkau dan memberikan hasil yang nyaman dan memuaskan.
+                Kami telah dipercaya masyarakat Jakarta selama bertahun-tahun sebagai penyedia jasa perbaikan dan perawatan alat elektronik. Karena kami memiliki reputasi keandalan dan keramahan. Harga jasa perbaikan dari kami sangat terjangkau dan memberikan hasil yang nyaman dan memuaskan.
             </p>
         </div>
         <div class="col-md-6">

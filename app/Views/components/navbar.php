@@ -8,17 +8,17 @@
             <div class="collapse navbar-collapse" id="navbarCollapse">
                 <ul class="navbar-nav me-auto mb-2 mb-md-0">
                     <li class="nav-item">
-                        <a class="nav-link <?= $uri->getSegment(1) == '' ? 'active' : '' ?>" aria-current="page" href="/">Home</a>
+                        <a class="nav-link <?= $uri->getSegment(1) == '' ? 'active' : '' ?>" aria-current="page" href="/">Tentang Kami</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link <?= $uri->getSegment(1) == 'contact' ? 'active' : '' ?>" href="contact">Contact</a>
+                        <a class="nav-link <?= $uri->getSegment(1) == 'contact' ? 'active' : '' ?>" href="contact">Hubungi Kami</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link <?= $uri->getSegment(1) == 'service' ? 'active' : '' ?>" href="service">Service</a>
+                        <a class="nav-link <?= $uri->getSegment(1) == 'service' ? 'active' : '' ?>" href="service">Layanan</a>
                     </li>
-                    <li class="nav-item">
+                    <!-- <li class="nav-item">
                         <a class="nav-link <?= $uri->getSegment(1) == 'shop' ? 'active' : '' ?>" href="shop">Shop</a>
-                    </li>
+                    </li> -->
                 </ul>
             </div>
         </div>
