@@ -14,7 +14,8 @@ class Home extends BaseController
     public function contact(): string
     {
         return view('pages/contact', [
-            'uri' => $this->request->getUri()
+            'uri' => $this->request->getUri(),
+            'key' => 'AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8'
         ]);
     }
 
