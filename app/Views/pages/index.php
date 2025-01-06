@@ -51,23 +51,21 @@
     <hr class="featurette-divider">
     <div class="row">
         <h2 class="featurette-heading text-center my-3">Sertifikat</h2>
-        <div class="col-sm-6">
-            <div class="row">
-                <div class="card">
-                    <img src="img/certificate-1.jpeg" alt="certificate" />
-                </div>
-            </div>
-            <div class="row">
-                <div class="card">
-                    <img src="img/certificate-2.jpeg" alt="certificate" />
-                </div>
+    </div>
+    <div class="row row-cols-1 row-cols-sm-2 g-3" data-masonry='{"percentPosition": true }'>
+        <div class="col">
+            <div class="card shadow-sm">
+                <img src="img/certificate-1.jpeg" class="w-100" />
             </div>
         </div>
-        <div class="col-sm-6">
-            <div class="row">
-                <div class="card">
-                    <img src="img/certificate-3.jpeg" alt="certificate" />
-                </div>
+        <div class="col">
+            <div class="card shadow-sm">
+                <img src="img/certificate-3.jpeg" class="w-100" />
+            </div>
+        </div>
+        <div class="col">
+            <div class="card shadow-sm">
+                <img src="img/certificate-2.jpeg" class="w-100" />
             </div>
         </div>
     </div>

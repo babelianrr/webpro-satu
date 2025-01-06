@@ -29,14 +29,14 @@
                 <img src="img/phone-call.png" class="mx-auto p-3" alt="https://www.flaticon.com/free-icons/phone" style="width: 100px;" />
                 <div class="card-body">
                     <h5 class="card-title">Kontak</h5>
-                    <p class="card-text"><a href="https://wa.me/6285776011522" target="_blank" rel="noopener noreferrer">0857-7601-1522</a></p>
+                    <p class="card-text"><a href="https://wa.me/6285776011522" target="_blank" rel="noopener noreferrer">Admin 1</a><br><a href="https://wa.me/6285772219292" target="_blank" rel="noopener noreferrer">Admin 2</a></p>
                 </div>
             </div>
         </div>
     </div>
     <hr class="featurette-divider">
     <div class="row w-100 text-center">
-        <div class="mapswrapper"><iframe width="960" height="540" loading="lazy" allowfullscreen src="https://www.google.com/maps/embed/v1/place?key=<?= env('GOOGLE_API_KEY') ?>&q=QWWQ%2BRX%20Penggilingan%2C%20Kota%20Jakarta%20Timur%2C%20Daerah%20Khusus%20Ibukota%20Jakarta&zoom=10&maptype=roadmap"></iframe>
+        <div class="mapswrapper iframe-height"><iframe class="responsive-iframe" loading="lazy" allowfullscreen src="https://www.google.com/maps/embed/v1/place?key=<?= env('GOOGLE_API_KEY') ?>&q=QWWQ%2BRX%20Penggilingan%2C%20Kota%20Jakarta%20Timur%2C%20Daerah%20Khusus%20Ibukota%20Jakarta&zoom=10&maptype=roadmap"></iframe>
             <style>
                 .mapswrapper {
                     background: #fff;
