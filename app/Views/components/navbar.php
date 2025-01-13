@@ -11,13 +11,13 @@
                         <a class="nav-link <?= $uri->getSegment(1) == '' ? 'active' : '' ?>" aria-current="page" href="/">Tentang Kami</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link <?= $uri->getSegment(1) == 'contact' ? 'active' : '' ?>" href="contact">Hubungi Kami</a>
-                    </li>
-                    <li class="nav-item">
                         <a class="nav-link <?= $uri->getSegment(1) == 'service' ? 'active' : '' ?>" href="service">Layanan Kami</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link <?= $uri->getSegment(1) == 'gallery' ? 'active' : '' ?>" href="gallery">Galeri Kami</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link <?= $uri->getSegment(1) == 'contact' ? 'active' : '' ?>" href="contact">Hubungi Kami</a>
                     </li>
                 </ul>
             </div>
