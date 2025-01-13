@@ -6,10 +6,10 @@
         <div class="col-lg-6 col-md-8 mx-auto">
             <h1 class="fw-light">Layanan Eko Service</h1>
             <p class="lead text-body-secondary">Kami melayani perbaikan segala jenis alat elektronik dengan segala jenis kerusakan.</p>
-            <p>
+            <!-- <p>
                 <a href="#" data-bs-toggle="modal" data-bs-target="#serviceModal" class="btn btn-primary my-2">Pesan Jasa</a>
                 <a href="#" data-bs-toggle="modal" data-bs-target="#consultModal" class="btn btn-secondary my-2">Konsultasi</a>
-            </p>
+            </p> -->
         </div>
     </div>
 </section>
@@ -22,11 +22,11 @@
                 <img src="img/ac.jpg" class="card-img-top w-100" />
                     <div class="card-body">
                         <p class="card-text">Kami melayani jasa perbaikan AC.</p>
-                        <div class="d-flex justify-content-between align-items-center">
+                        <!-- <div class="d-flex justify-content-between align-items-center">
                             <div class="btn-group">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#acModal" class="btn btn-sm btn-outline-primary my-2">Pesan Jasa</a>
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </div>
@@ -35,11 +35,11 @@
                 <img src="img/kulkas.jpg" class="card-img-top w-100" />
                     <div class="card-body">
                         <p class="card-text">Kami melayani jasa perbaikan kulkas.</p>
-                        <div class="d-flex justify-content-between align-items-center">
+                        <!-- <div class="d-flex justify-content-between align-items-center">
                             <div class="btn-group">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#kulkasModal" class="btn btn-sm btn-outline-primary my-2">Pesan Jasa</a>
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </div>
@@ -48,11 +48,11 @@
                 <img src="img/freezer.jpg" class="card-img-top w-100" />
                     <div class="card-body">
                         <p class="card-text">Kami melayani jasa perbaikan chiller.</p>
-                        <div class="d-flex justify-content-between align-items-center">
+                        <!-- <div class="d-flex justify-content-between align-items-center">
                             <div class="btn-group">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#chillerModal" class="btn btn-sm btn-outline-primary my-2">Pesan Jasa</a>
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </div>
@@ -61,11 +61,11 @@
                 <img src="img/showcase.jpg" class="card-img-top w-100" />
                     <div class="card-body">
                         <p class="card-text">Kami melayani jasa perbaikan showcase.</p>
-                        <div class="d-flex justify-content-between align-items-center">
+                        <!-- <div class="d-flex justify-content-between align-items-center">
                             <div class="btn-group">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#showcaseModal" class="btn btn-sm btn-outline-primary my-2">Pesan Jasa</a>
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </div>
@@ -74,11 +74,11 @@
                     <img src="img/mesincuci.jpg" class="card-img-top w-100" />
                     <div class="card-body">
                         <p class="card-text">Kami melayani jasa perbaikan mesin cuci.</p>
-                        <div class="d-flex justify-content-between align-items-center">
+                        <!-- <div class="d-flex justify-content-between align-items-center">
                             <div class="btn-group">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#mesincuciModal" class="btn btn-sm btn-outline-primary my-2">Pesan Jasa</a>
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </div>
@@ -87,18 +87,18 @@
                 <img src="img/tv.jpg" class="card-img-top w-100" />
                     <div class="card-body">
                         <p class="card-text">Kami melayani jasa perbaikan TV.</p>
-                        <div class="d-flex justify-content-between align-items-center">
+                        <!-- <div class="d-flex justify-content-between align-items-center">
                             <div class="btn-group">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#tvModal" class="btn btn-sm btn-outline-primary my-2">Pesan Jasa</a>
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </div>
         </div>
     </div>
 </div>
-<div class="modal fade" id="serviceModal" tabindex="-1" aria-labelledby="serviceModalLabel" aria-hidden="true">
+<!-- <div class="modal fade" id="serviceModal" tabindex="-1" aria-labelledby="serviceModalLabel" aria-hidden="true">
     <div class="modal-dialog">
         <div class="modal-content">
             <div class="modal-header">
@@ -240,5 +240,5 @@
             </div>
         </div>
     </div>
-</div>
+</div> -->
 <?= $this->endSection() ?>

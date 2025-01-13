@@ -6,10 +6,10 @@
         <div class="col-lg-6 col-md-8 mx-auto">
             <h1 class="fw-light">Galeri Eko Service</h1>
             <p class="lead text-body-secondary">Dokumentasi aktivitas teknisi Eko Service.</p>
-            <p>
+            <!-- <p>
                 <a href="#" data-bs-toggle="modal" data-bs-target="#serviceModal" class="btn btn-primary my-2">Pesan Jasa</a>
                 <a href="#" data-bs-toggle="modal" data-bs-target="#consultModal" class="btn btn-secondary my-2">Konsultasi</a>
-            </p>
+            </p> -->
         </div>
     </div>
 </section>
@@ -51,7 +51,7 @@
     </div>
 </div>
 
-<div class="modal fade" id="serviceModal" tabindex="-1" aria-labelledby="serviceModalLabel" aria-hidden="true">
+<!-- <div class="modal fade" id="serviceModal" tabindex="-1" aria-labelledby="serviceModalLabel" aria-hidden="true">
     <div class="modal-dialog">
         <div class="modal-content">
             <div class="modal-header">
@@ -85,5 +85,5 @@
             </div>
         </div>
     </div>
-</div>
+</div> -->
 <?= $this->endSection() ?>
